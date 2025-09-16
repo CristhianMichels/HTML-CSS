@@ -3,12 +3,9 @@ Meus estudos de HTML 5 e CSS 3
 
 Links de alguns desafios:
 
-desafio 5:
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio5"></a>
+<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio5">desafio 5</a>
 
-desafio 10:
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio10-correto"></a>
+<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio10-correto">desafio 10</a>
 
-desafio 12:
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio12"></a>
+<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio12">desafio 12</a>
 
