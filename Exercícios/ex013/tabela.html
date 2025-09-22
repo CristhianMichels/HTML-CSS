@@ -20,7 +20,9 @@
             width: 600px;
             border-collapse: collapse;
             margin: auto;
+            position: relative;
         }
+
         caption{
             font-size: 1.4em;
             font-weight: bold;
@@ -29,6 +31,13 @@
             margin-top: 40px;
 
         }
+
+        thead > tr > th{
+            position: sticky;
+            top: -1px;
+            background-color: rgb(58, 58, 58);
+        }
+
         td, th{
             border: 1px solid black;
             padding: 10px;
