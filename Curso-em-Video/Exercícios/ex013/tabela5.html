@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de tabela</title>
+    <style>
+        table{
+            border-collapse: collapse;
+            width: 400px;
+            margin: auto;
+        }
+        caption{
+            font-size: 1.3em;
+            font-weight: bold;
+            padding: 10px;
+        }
+        td,th{
+            border: 1px solid black;
+            text-align: center;
+            padding: 7px;
+        }
+        tr.destaque{
+            background-color: greenyellow;
+        }
+        .cnome{
+            background-color: aqua;
+        }
+        .ccolunas{
+            background-color: gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício de tabela</h1>
+
+    <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="ccolunas" span="2">
+            <col class="cprof">
+        </colgroup>
+        <caption>Cadastro</caption>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+        <tr>
+            <td>Ana Maria</td>
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+        <tr>
+            <td>José</td>
+            <td>M</td>
+            <td>23</td>
+            <td>Banqueiro</td>
+        </tr>
+        <tr class="destaque">
+            <td>Pedro</td>
+            <td>M</td>
+            <td>45</td>
+            <td>Advogado</td>
+        </tr>
+        <tr>
+            <td>Maria Ana</td>
+            <td>F</td>
+            <td>19</td>
+            <td>Estagiária</td>
+        </tr>
+        <tr>
+            <td>Cleunice</td>
+            <td>F</td>
+            <td>57</td>
+            <td>Juíza</td>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>M</td>
+            <td>17</td>
+            <td>Jovem aprendiz</td>
+        </tr>
+    </table>
+</body>
+</html>
