@@ -1,4 +1,4 @@
-Links de alguns desafios:
+Links de alguns desafios/atividades:
 
 <a href="https://cristhianmichels.github.io/Html-Css/Curso-em-Video/desafios/Site Android Correto">Site Android</a>
 
