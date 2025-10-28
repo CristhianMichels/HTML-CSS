@@ -1,11 +1,8 @@
-# html-css
-Meus estudos de HTML 5 e CSS 3
+Links de alguns desafios/atividades:
 
-Links de alguns desafios:
+<a href="https://cristhianmichels.github.io/Html-Css/Curso-em-Video/desafios/Site Android Correto">Site Android</a>
 
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio5">desafio 5</a>
+<a href="https://cristhianmichels.github.io/Html-Css/Curso-em-Video/desafios/Cordel-Moderno">Cordel Moderno</a>
 
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio10 correto">desafio 10</a>
-
-<a href="https://cristhianmichels.github.io/HTML-CSS/desafios/desafio12">desafio 12</a>
+<a href="https://cristhianmichels.github.io/Html-Css/Curso-em-Video/desafios/Celular-de_Redes_Sociais">Celular de Redes Sociais</a>
 
